@@ -1,4 +1,4 @@
-1. Print the Factorial of N natural numbers where N is an integer input by the user.
-Problem: We are given a positive integer N by the user. Our task is to calculate the factorial
-of the  numbers and print it out. 
-For example, if N is 5, we want to calculate the sum 1*2*3*4*5, which equals 120.
+Print the factorial of a number.
+Problem: We're given an integer 'N' by the user. Our task is to calculate the factorial of this number and print it.
+The factorial of a number is the product of all positive integers up to that number.
+For example, the factorial of 5 (denoted as 5!) is 1 * 2 * 3 * 4 * 5 = 120.
