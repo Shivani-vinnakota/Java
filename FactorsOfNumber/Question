@@ -1,5 +1,8 @@
-1. Print the sum of N natural numbers where N is an integer input by the user.
-Problem: We are given a positive integer N by the user. Our task is to calculate the sum
-of the first N natural numbers and print it out. Natural numbers are simply numbers that
-you naturally count, i.e., 1, 2, 3, and so on.
-For example, if N is 5, we want to calculate the sum 1+2+3+4+5, which equals 15.
+Print all the factors of a number.
+Problem: We're given an integer 'N' by the user. Our task is to print all factors of this number. Factors are numbers
+that divide evenly into another number.
+For example, the factors of 10 are 1, 2, 5, and 10 because these numbers divide 10 without leaving a remainder.
+
+Approach: We'll use a loop that runs from 1 to N. For each number in this range, we'll check if it is a factor of N
+(i.e., if N divided by the number leaves no remainder). If it is, we print it out.
+
